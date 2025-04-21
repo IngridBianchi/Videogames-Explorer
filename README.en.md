@@ -30,9 +30,9 @@ The project was inspired by my passion for video games and my desire to create s
 
 // **Installation and Setup**  
 1. **Clone the repository**:  
-   ```bash  
-   git clone https://github.com/your-username/videogames-explorer.git  
-   ```
+   
+   git clone https://github.com/IngridBianchi/Videogames-Explorer 
+   
 
 2. **Install dependencies**:  
    - In the `client` directory:  

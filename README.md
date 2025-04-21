@@ -42,7 +42,7 @@ APIs Externas: RAWG API para obtener datos de videojuegos
 // **Instalación y Configuración**
 Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/videogames-explorer.git
+git clone https://github.com/IngridBianchi/Videogames-Explorer
 
 Instalar las dependencias:
 
